@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react form scratch",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshpriyadarshi/React.git"
+  },
+  "author": "Yogesh Priyadarshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshpriyadarshi/React/issues"
+  },
+  "homepage": "https://github.com/yogeshpriyadarshi/React#readme",
+  "dependencies": {
+    "parcel": "^2.14.4"
+  }
+}
